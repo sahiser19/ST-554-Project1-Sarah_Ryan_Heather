@@ -6,7 +6,8 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
 
 - Feedback giver Sarah
   + Provided github branch to Ryan and Heather but I did not execute the invitation to the collaborators and needed to resend the invite.
-  + 2/17 waiting for pushes to review code. 
+  + 2/17 waiting for pushes to review code.
+  + Added hard copy file to github repo. Need to discuss with group members about how to pull data if there was ever an update. 
 
 
 - Feedback giver #2
