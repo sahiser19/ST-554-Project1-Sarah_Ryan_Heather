@@ -16,8 +16,10 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
           + Also, try using an f-string for your print statement, like `print(f'The SLR MSE is {SLR_Mean} and the MLR MSE is {MLR_Mean}')`
           + Finally, I think your logic is backwards; it should be SLR_Mean < MLR_Mean, since a lower mean squared error is better!
   + Include results at the end, discussing the two models and the final model fit!
+- Feedback giver #2: Sarah Harden
+  + Hey, Heather! Great job! A couple of suggestions for the notebook would be:
+  + The gradient descent and error calculations look good and I think you have the right logic as well. I could be reading this wrong but my only comment would be that the np.sqrt() might be giving you the RMSE instead of the MSE?
+  + I would try to adjust some of these hardcoded values inside your functions and pass them as parameters of your function with default values you can build into your flow.
+  + For the time that the GD is running I read that you could add a print method to show the steps and confirm you are actually decreasing....helps to know it's running. That has saved me a lot of time in the past!
+  + Last thing is that I would try to add a section at the end where you explicity print the final optimized parameter values, aka B0, b1, etc. so the results of your work are easy for the audience to see! 
 
-
-
-- Feedback giver #2
-  + item
