@@ -1,5 +1,6 @@
 * Project1_Task2 is first draft from 2/17
-* Task_2_initial_draft is final rough draft from 2/18 (review this one)
+* Task2_initial_draft is final rough draft from 2/18 (review this one)
+* Task2_final is final version as of 2/23
 
 Each group member should provide feedback on the other group members’ work. Be detailed and specific where possible. The quality of this feedback can play a part in your grade.
 
